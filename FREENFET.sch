@@ -1606,7 +1606,6 @@ Standard 3-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <text x="7.366" y="9.398" size="1.778" layer="94">(C)2016 Freetronics Pty Ltd: www.freetronics.com.au</text>
 <text x="7.366" y="6.35" size="1.778" layer="94">Released under the TAPR Open Hardware License: www.tapr.org/ohl</text>
 <text x="63.246" y="14.478" size="1.778" layer="94">www.freetronics.com.au/freenfet</text>
-<text x="111.76" y="19.558" size="1.778" layer="94">WS2811 Operating Voltage: 3.3V to 5.5V</text>
 <text x="7.62" y="47.498" size="1.778" layer="94">--&gt;</text>
 <text x="180.34" y="47.498" size="1.778" layer="94">--&gt;</text>
 <text x="111.76" y="14.478" size="1.778" layer="94">SET HIGH: low speed 400kHz mode (optional)</text>
